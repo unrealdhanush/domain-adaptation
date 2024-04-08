@@ -38,6 +38,24 @@ python main.py
 
 After training the model, you can visualize the accuracy of the model on the SVHN and MNIST datasets over epochs using the provided visualization scripts.
 
+### Accuracy on SVHN Train Set:
+
+![SVHN Train Accuracy](results/__results___23_0.png)
+
+This plot shows the accuracy of the model on the SVHN train set over epochs.
+
+### Accuracy on SVHN Test Set:
+
+![SVHN Test Accuracy](results/__results___24_0.png)
+
+This plot illustrates the accuracy of the model on the SVHN test set over epochs.
+
+### Accuracy on MNIST Test Set:
+
+![MNIST Test Accuracy](results/__results___24_0.png)
+
+This plot illustrates the accuracy of the model on the MNIST test set over epochs.
+
 ## Citation
 
 If you use this code for your research, please consider citing the following paper:
