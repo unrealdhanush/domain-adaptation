@@ -30,9 +30,9 @@ To run the code:
 ```pip install -r requirements.txt```
 
 3. Run the `main.py` script:
-python main.py
+python main_v1.py
 
-4. Monitor the training progress and evaluate the model's performance on the SVHN and MNIST datasets.
+5. Monitor the training progress and evaluate the model's performance on the SVHN and MNIST datasets.
 
 ## Results
 
